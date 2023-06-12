@@ -1,0 +1,23 @@
+{
+  "blockId": "G9ZSDCjg1nWmyuUVUfOoU",
+  "name": "blocktest2pack",
+  "type": "package",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_blocktest2pack"
+  },
+  "parentBlockIDs": [
+    "AeWBfQsHmL_qHNwZVmJcm"
+  ],
+  "repoType": "mono",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "dependencies": {
+    "blocktest2packfn": {
+      "directory": "blocktest2packfn"
+    }
+  }
+}
