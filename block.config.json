@@ -17,7 +17,11 @@
   "isPublic": true,
   "dependencies": {
     "blocktest2packfn": {
-      "directory": "blocktest2packfn"
+      "directory": "blocktest2packfn",
+      "versionId": "XCCoYrs4UvL8s8KNAJ7_D",
+      "version": "0.0.1"
     }
-  }
+  },
+  "version": "0.0.1",
+  "versionId": "KEfqqNbDrd_a-4BQm5EGz"
 }
