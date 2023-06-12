@@ -15,7 +15,11 @@
   "repoType": "mono",
   "dependencies": {
     "blocktest2pack": {
-      "directory": "blocktest2pack"
+      "directory": "blocktest2pack",
+      "versionId": "KEfqqNbDrd_a-4BQm5EGz",
+      "version": "0.0.1"
     }
-  }
+  },
+  "version": "0.0.1",
+  "versionId": "MH2mxMFdrUsb4rlHj_veN"
 }
