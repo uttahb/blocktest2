@@ -1,0 +1,21 @@
+{
+  "blockId": "7iFxaY0jjzAKcTeFXyFaK",
+  "name": "blocktest2packfn",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/uttahb/blocktest2.git",
+    "ssh": "git@github.com:uttahb/blocktest2.git",
+    "branch": "block_blocktest2packfn"
+  },
+  "parentBlockIDs": [
+    "AeWBfQsHmL_qHNwZVmJcm",
+    "G9ZSDCjg1nWmyuUVUfOoU"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}
